@@ -1,0 +1,10 @@
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.csprojAssemblyReference.cache
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.Form1.resources
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.Properties.Resources.resources
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.csproj.GenerateResource.cache
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.csproj.CoreCompileInputs.cache
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\bin\Debug\personelkayit.exe.config
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\bin\Debug\personelkayit.exe
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\bin\Debug\personelkayit.pdb
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.exe
+C:\Users\AYGENN\source\repos\personelkayit\personelkayit\obj\Debug\personelkayit.pdb
